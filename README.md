@@ -56,6 +56,7 @@ function distanceFromHqInFeet(someValue) {
 
   // the return value of distanceFromHqInBlocks can then be used to calculate feet
 }
+
 ```
 
 - `distanceTravelledInFeet`: Calculates the number of feet a passenger travels
